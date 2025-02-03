@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.warehousevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\admin\\Desktop\\Tarasov, Orekhovo-Zuevo\\Module B\\WarehouseVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "WarehouseVR [Testing]"
+        }
+      }
+    }
+  ]
+}
